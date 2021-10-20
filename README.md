@@ -1,8 +1,6 @@
 <img width="1433" alt="Screen Shot 2021-10-20 at 9 23 48 pm" src="https://user-images.githubusercontent.com/81402349/138101860-e2e2432d-f6a1-4e5e-81c3-3aaf7a2b418e.png">
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) 
 [Portfolio](https://patricktheodore.github.io/patricktheodore-portfolio/)
-
 
 [![patricktheodores GitHub stats](https://github-readme-stats.vercel.app/api?username=patricktheodore&theme=dark&show_icons=true)](https://github.com/patricktheodore/github-readme-stats)
 
