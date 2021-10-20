@@ -14,4 +14,4 @@
 </a> 
 <a href="https://https://github.com/patricktheodore">
   <img align="left" alt="Patrick's GitHub" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a> | [Portfolio](https://patricktheodore.github.io/patricktheodore-portfolio)
+</a> | ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
