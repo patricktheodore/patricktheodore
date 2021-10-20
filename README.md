@@ -11,4 +11,6 @@
 </a> 
 <a href="https://https://github.com/patricktheodore">
   <img align="left" alt="Patrick's GitHub" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a> | My Portfolio - [patricktheodore-portfolio](https://patricktheodore.github.io/patricktheodore-portfolio/)
+</a> | 
+My Portfolio - 
+[patricktheodore-portfolio](https://patricktheodore.github.io/patricktheodore-portfolio/)
