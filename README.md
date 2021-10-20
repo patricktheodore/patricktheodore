@@ -12,5 +12,8 @@ My Portfolio - [patricktheodore-portfolio](https://patricktheodore.github.io/pat
 </a>
 <a href="https://www.linkedin.com/in/patrick-sara-8186a3170/">
   <img align="left" alt="Patrick's LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a> | [github](https://github.com/patricktheodore) | [patricktheodore-portfolio](https://patricktheodore.github.io/patricktheodore-portfolio/)
+</a> 
+<a href="https://https://github.com/patricktheodore">
+  <img align="left" alt="Patrick's GitHub" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>| portfolio[patricktheodore-portfolio](https://patricktheodore.github.io/patricktheodore-portfolio/)
 
