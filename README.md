@@ -1,7 +1,3 @@
-Patrick Sara - [linkedin](https://www.linkedin.com/in/patrick-sara-8186a3170/) - [github](https://github.com/patricktheodore) - 
-
-My Portfolio - [patricktheodore-portfolio](https://patricktheodore.github.io/patricktheodore-portfolio/)
-
 [![patricktheodores GitHub stats](https://github-readme-stats.vercel.app/api?username=patricktheodore&theme=dark&show_icons=true)](https://github.com/patricktheodore/github-readme-stats)
 
 <a href="https://twitter.com/PatrickSara7">
@@ -15,5 +11,4 @@ My Portfolio - [patricktheodore-portfolio](https://patricktheodore.github.io/pat
 </a> 
 <a href="https://https://github.com/patricktheodore">
   <img align="left" alt="Patrick's GitHub" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>| portfolio[patricktheodore-portfolio](https://patricktheodore.github.io/patricktheodore-portfolio/)
-
+</a> | My Portfolio - [patricktheodore-portfolio](https://patricktheodore.github.io/patricktheodore-portfolio/)
