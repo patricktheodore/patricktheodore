@@ -1,6 +1,6 @@
 <img width="1433" alt="Screen Shot 2021-10-20 at 9 23 48 pm" src="https://user-images.githubusercontent.com/81402349/138101860-e2e2432d-f6a1-4e5e-81c3-3aaf7a2b418e.png">
 
-<h1 align="center">hi 👋, i'm patrick</h1>
+<h1 align="center">👋 i'm patrick</h1>
 <h3 align="center">a passionate fullstack developer from australia.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patricktheodore&label=Profile%20views&color=0e75b6&style=flat" alt="patricktheodore" /> </p>
@@ -22,9 +22,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=patricktheodore&show_icons=true&locale=en&layout=compact&theme=dark" alt="patricktheodore" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=patricktheodore&show_icons=true&locale=en&theme=dark" alt="patricktheodore" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=patricktheodore&show_icons=true&locale=en&theme=dark" alt="patricktheodore" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=patricktheodore&theme=dark" alt="patricktheodore" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=patricktheodore&theme=dark" alt="patricktheodore" /></p>
 
 </br>
 
