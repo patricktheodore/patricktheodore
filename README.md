@@ -26,6 +26,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=patricktheodore&theme=dark" alt="patricktheodore" /></p>
 
+</br>
+
 <a href="https://twitter.com/PatrickSara7">
   <img align="left" alt="Patrick's Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
