@@ -22,11 +22,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=patricktheodore&show_icons=true&locale=en&layout=compact&theme=dark" alt="patricktheodore" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=patricktheodore&show_icons=true&locale=en" alt="patricktheodore" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=patricktheodore&show_icons=true&locale=en&theme=dark" alt="patricktheodore" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=patricktheodore&" alt="patricktheodore" /></p>
-
-[![patricktheodores GitHub stats](https://github-readme-stats.vercel.app/api?username=patricktheodore&theme=dark&show_icons=true)](https://github.com/patricktheodore/github-readme-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=patricktheodore&theme=dark" alt="patricktheodore" /></p>
 
 <a href="https://twitter.com/PatrickSara7">
   <img align="left" alt="Patrick's Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
