@@ -6,17 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patricktheodore&label=Profile%20views&color=0e75b6&style=flat" alt="patricktheodore" /> </p>
 
-- 🔭 I’m currently working on [a football highlights app](https://patricktheodore.github.io/football-highlights-dashboard/)
-
-- 🌱 I’m currently learning **python/flask**
-
-- 👯 I’m looking to collaborate on **anything**
-
-- 👨‍💻 All of my projects are available at [My Portfolio](https://patricktheodore.github.io/patricktheodore-react-portfolio/)
-
-- 💬 Ask me about **my cat**
-
-- 📫 How to reach me **patricktheodoresara@gmail.com**
+- View my Stuff [My Portfolio](https://patricktheodore.github.io/patricktheodore-react-portfolio/)
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
